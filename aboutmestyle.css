@@ -1,0 +1,18 @@
+
+.header{
+   background-color:rgb(112, 176, 122);
+   text-align:left;
+   display:flex;
+}
+.h1{
+   color:#777777;
+   text-align:left;
+}
+.h2{
+   background-color: rgb(112,176,122);
+   color:rgb(26, 92, 26);
+   text-align:left;
+}
+.item{
+   justify-content:space-evenly;
+}
